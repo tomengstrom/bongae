@@ -5,6 +5,8 @@ The background responds to scrolling (scroll offset from top) and resizing the b
 
 A live demo: http://project30.gq/projects/tomtom  
 
+Disclaimer: the code is quite messy and mostly uncommented
+
 ### Libraries used:
 CreateJS - http://www.createjs.com/  
 jQuery - https://jquery.com/  
